@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Text area demo</title>
+    </head>
+    <body>
+        <form>
+            Enter the desired text here:
+            <textarea cols="40" rows="5" name="myname">
+                
+            </textarea>
+        </form>
+    </body>
+</html>
